@@ -1,3 +1,4 @@
+/* Test */
 
 /**
  * Module dependencies
