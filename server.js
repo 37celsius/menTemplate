@@ -1,5 +1,3 @@
-/* Test */
-
 /**
  * Module dependencies
  */
